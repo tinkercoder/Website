@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/tinkercoder/Website#readme",
   "devDependencies": {
-    "webpack": "^4.26.1"
+    "webpack": "^4.26.1",
+    "webpack-dev-server": "^3.1.10"
   }
 }
